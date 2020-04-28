@@ -1,3 +1,4 @@
 # To-practice
-Pour pratiquer et étudier
+Pour étudier
 Le titre de cette branche contient une erreur!
+Complet
